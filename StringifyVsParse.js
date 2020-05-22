@@ -8,3 +8,6 @@ console.log(mySelfString);
 var myHobbyString = '{"nameHobby": "travel", "Duration": 1, "Place": "Sapa"}';
 var myHobby = JSON.parse(myHobbyString);
 console.log(myHobby);
+
+
+console.log('Hello');
